@@ -1,7 +1,8 @@
-from Constants import constize
+from Constants import Constant
+from Text import Text
 
 def main():
-    consts = constize.Constant()
+    consts = Constant.constant()
     print consts.UNSET
 
 main()

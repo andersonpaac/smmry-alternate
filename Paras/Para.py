@@ -1,6 +1,7 @@
-from Const
+from Constants import Constant
+from Sentences import Sentence
 
-class Para:
+class para:
 
     def __init__(self, text):
         self.rawtext = text
