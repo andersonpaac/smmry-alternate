@@ -6,11 +6,10 @@
 	it. 
 
 ##Usage 
-	'''
 		python main.py -f sample-input-1.txt -o out.txt					#Will write summary to file using sample-input-1.txt as input
 		python main.py -f sample-input-1.txt -o out.txt -opts ECHO_ON	#Will print to stdout
 		python main.py -debug ON										#Logs to stdout
-	'''
+	
 	
 	
 #To Do
