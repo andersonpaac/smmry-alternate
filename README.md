@@ -2,8 +2,8 @@
 
 
 #Objective
-	Takes a text file or a massive string as input and outputs a summary of 
-	it. 
+Takes a text file or a massive string as input and outputs a summary of 
+it. 
 
 ##Usage 
 		python main.py -f sample-input-1.txt -o out.txt					#Will write summary to file using sample-input-1.txt as input
@@ -24,7 +24,6 @@
 ##Classes
 
 ###Text
-	Holds the actual text of the entire document and
-	holds 
-		paras
+Holds the actual text of the entire document and holds an array of paras object.
+
 	
