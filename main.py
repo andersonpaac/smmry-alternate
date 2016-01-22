@@ -4,7 +4,7 @@
 from Constants import Constant
 from Text import Text
 
-fname = "sample-input-1.txtz"
+fname = "sample-input-6.txtz"
 
 def main():
     consts = Constant.constant()
