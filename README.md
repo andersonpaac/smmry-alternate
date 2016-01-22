@@ -27,3 +27,4 @@ it.
 Holds the actual text of the entire document and holds an array of paras object.
 
 	
+sudo python -m nltk.downloader -d /usr/local/share/nltk_data all
